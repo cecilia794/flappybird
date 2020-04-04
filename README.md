@@ -1,4 +1,4 @@
-# flappy_bird
+# flappybird
 Clon del flappy bird escrito en python. :)
 
 ## Instrucciones
